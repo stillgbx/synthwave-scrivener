@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerThemes>
+    <ScrivenerTheme name="SynthWave84" style="Dark">
+        <qtstylesheet>SynthWave84.qss</qtstylesheet>
+        <palette>SynthWave84.pal</palette>
+        <preferences load="Colors">SynthWave84.prefs</preferences>
+    </ScrivenerTheme>
+</ScrivenerThemes>
